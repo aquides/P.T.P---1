@@ -11,4 +11,5 @@ Objetivo:
   Análise Racial, Educacional e de Genëro dos candidatos de acordo com as autodeclarações
   
 Link Drive com as bases, notebooks e adicionais
+  https://drive.google.com/drive/folders/1966aM5RYvVB1StTBbmdMkpgNulmABnti?usp=share_link
   
